@@ -18,20 +18,21 @@ I received my bachelor’s degree from the University of Electronic Science and 
 
 My research interests primarily lie in **multimodal learning and pre-training algorithms**, with a particular focus on their applications in **medical image analysis**. I am especially interested in algorithmic design, representation learning, and cross-modal modeling, and I am passionate about exploring the potential of these methods across different domains.
 
-If you are interested in my work or would like to collaborate, please feel free to reach out to me via email at **haoranma@mail.ustc.edu.cn**.  
-I am also actively seeking **algorithm-related research or industry internship opportunities**.
+If you are interested in my work or would like to collaborate, please feel free to reach out to me via email at **haoranma@mail.ustc.edu.cn**, or contact me on WeChat (kindly note your purpose when adding).
+
+👀 I am also actively seeking **algorithm-related research or industry internship opportunities**.
 
 ---
 
 ## 📰 News {#news}
 
-- *(To be updated)*
+- 🤡 Coming soon!
 
 ---
 
 ## 📚 Publications {#publications}
 
-- *(No publications yet)*
+- 🤡 Coming soon!
 
 ---
 
@@ -53,5 +54,7 @@ I am also actively seeking **algorithm-related research or industry internship o
 
 ## 📎 Other Information {#other-information}
 
-- Email: **haoranma@mail.ustc.edu.cn**  
+- 📧 Email: **haoranma@mail.ustc.edu.cn**
+- 📱 Phone: **+86-13305557075**
+- ✨ Wechat: **M1093890490**
 - I am actively seeking **algorithm-related research or industry internship opportunities**.
