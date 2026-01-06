@@ -7,9 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+Hello, I am **Haoran Ma** , a graduate student at the **University of Science and Technology of China (USTC)**, majoring in Electronic Information. I am currently in my **first** year of my master’s program at the **Miracle Lab**, under the guidance of Prof. S. Kevin Zhou.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I received my bachelor’s degree from the University of Electronic Science and Technology of China (UESTC), School of Information and Communication Engineering, where I majored in Electronic Information Engineering.
+
+My research interests primarily lie in **multimodal learning and pre-training algorithms**, with a particular focus on their applications in **medical image analysis**. I am especially interested in algorithmic design, representation learning, and cross-modal modeling, and I am passionate about exploring the potential of these methods across different domains.
+
+If you are interested in my work or would like to collaborate, please feel free to reach out to me via email at **haoranma@mail.ustc.edu.cn**. I am also actively seeking **algorithm-related research or industry internship opportunities**. I look forward to connecting with you!
+
 
 A data-driven personal website
 ======
