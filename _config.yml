@@ -23,7 +23,7 @@ repository               : "HaoRan-Ma/HaoRan-Ma.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Haoran Ma"
   pronouns         : # example: "she/her"  
   bio              : "M.S. student at USTC. Interests: multimodal pre-training and medical image analysis.""
