@@ -52,7 +52,13 @@ If you are interested in my work or would like to collaborate, please feel free 
 
 ## 🥇 Honors & Awards {#honors-awards}
 
-- *(To be updated)*
+- *2022.9* UESTC First-class Scholarship.
+- *2023.8* UESTC Excellent conclusion in College students' innovation and entrepreneurship program.
+- *2023.9* UESTC First-class Scholarship.
+- *2023.10* NTU Outstanding Camper, AI Lab Research Program. (only 2)
+- *2023.10* Letter of reference from NTU AI Lab.
+- *2024.9* UESTC First-class Scholarship.
+- *2025.10* USTC Graduate First-class Scholarship.
 
 ---
 
