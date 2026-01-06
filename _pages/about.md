@@ -2,10 +2,13 @@
 permalink: /
 title: "About"
 author_profile: true
+header:
+  show_title: false
 redirect_from:
   - /about/
   - /about.html
 ---
+
 
 ## 🧐 About Me {#about-me}
 
