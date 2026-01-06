@@ -2,11 +2,15 @@
 permalink: /
 title: ""
 author_profile: true
+layout: single
 classes: wide
-header:
-  overlay_color: ""
-  show_overlay_excerpt: false
+header: false
+toc: false
+redirect_from:
+  - /about/
+  - /about.html
 ---
+
 
 
 
