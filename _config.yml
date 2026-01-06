@@ -3,7 +3,7 @@
 # Basic Site Settings
 locale: "en-US"
 site_theme: "default"
-title: "Haoran Ma"
+title: "Homepage"
 title_separator: "-"
 name: &name "Haoran Ma"
 description: &description "M.S. student at the University of Science and Technology of China (USTC)"
