@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "About"
+title: ""
 author_profile: true
+classes: wide
 header:
-  show_title: false
-redirect_from:
-  - /about/
-  - /about.html
+  overlay_color: ""
+  show_overlay_excerpt: false
 ---
+
 
 
 ## 🧐 About Me {#about-me}
