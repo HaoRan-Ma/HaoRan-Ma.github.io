@@ -30,13 +30,15 @@ If you are interested in my work or would like to collaborate, please feel free 
 
 ## 📰 News {#news}
 
-- 🤡 Coming soon!
+- 2026.01: A paper is currently under submission to ACL 2026.🥹
+- 2025.09: 🎉🎉 I join the MIRACLE Lab as a master student😊.
+- 2025.06: 🎉🎉 I graduated from University of Electronic Science and Technology of China 🎓.
 
 ---
 
 ## 📚 Publications {#publications}
 
-- 🤡 Coming soon!
+- 🥹 Coming soon!
 
 ---
 
