@@ -30,7 +30,7 @@ If you are interested in my work or would like to collaborate, please feel free 
 
 ## 📰 News {#news}
 
-- 2026.03：A paper is currently under submission to ECCV 2026.🥹
+- 2026.03: A paper is currently under submission to ECCV 2026.🥹
 - 2026.02: A paper is currently under submission to MICCAI 2026.🥹
 - 2025.09: 🎉🎉 I join the MIRACLE Lab as a master student😊.
 - 2025.06: 🎉🎉 I graduated from University of Electronic Science and Technology of China 🎓.
